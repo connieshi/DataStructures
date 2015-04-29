@@ -1,0 +1,3 @@
+CS102 - Data Structures
+
+Given an input file of a maze and an initial position, implement a Stack and Queue class to find the way out or determine that there is no way out.
